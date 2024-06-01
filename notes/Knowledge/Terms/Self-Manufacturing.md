@@ -1,0 +1,2 @@
+# Self-Manufacturing
+the ability of a kinematic machine to make some or all of its parts from raw materials. This prompts a requirement for a definition of “raw”: is an etched PCB a raw material? Or a uniform copper-clad board?  Or some copper, some glass, and some epoxy resin?  Forensically, many Gordian Knots of this sort are cut by asking, “Would a reasonable person say it is so?” and leaving it at that. We adopt the same approach as the law

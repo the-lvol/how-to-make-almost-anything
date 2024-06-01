@@ -1,5 +1,5 @@
 {
-	"name": "template-itu",
+	"name": "how-to-make-almost-anything",
 	"image": "mcr.microsoft.com/devcontainers/base:jammy",
 	"features": {
 		"ghcr.io/devcontainers/features/github-cli:1": {}
